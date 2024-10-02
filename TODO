@@ -1,0 +1,144 @@
+data types : list bilan dict ni farqi
+
+list ni ichiga xarxil qiymatli formatta yozsa bo'ladi listta index ketmaket
+dict da key valiu bilan saqlanadi dictda xoxlagan narsasini qo'ysa bo'ladi keyni o'rniga
+
+dict ga hashable formatta dagi data typeini yozamiz
+
+
+set compitation [x * 2 in numbers  ]
+
+
+
+number [1,2,3,4]
+c = [ x * 2 for x in number ]
+
+print (c)
+
+
+threat va multiprosses  farqi
+
+ threat bu misol uchun 2 kishi bir vaqtning uzida register qili nedigon bo'linsa
+ 1chi 1 keyin  2chi userga ishledi
+ multi prosess bu birvaqtning o'zida ko'p task qilish uchun ishledi
+
+
+ put bilan patch ning farqi
+
+ put bu malumotni xammasini o'zgartirsa bo'ladi
+ patch bu misol uchun telefon nomerini o'zgartirsa bo'ladi
+
+
+ sql bilan nosql ning farqi
+
+ SQL:
+
+    Ma'lumotlar qat'iy strukturalangan va o‘zgarishlari kam bo‘lsa.
+    Ma'lumotlar integritasi va konsistensiyasi muhim bo‘lsa.
+    Murakkab so‘rovlar va analizlar kerak bo‘lsa.
+
+NoSQL:
+
+    Ma'lumotlar strukturasi tez o‘zgarayotgan bo‘lsa yoki strukturasiz bo‘lsa.
+    Katta hajmli ma'lumotlar va yuqori tezlikda o‘qish/yazish talab qilinsa.
+    Moslashuvchanlik va kengaytirilish muhim bo‘lsa.
+
+
+
+Abstraction bu class lar uchun ishlatiladigan obyekt 1 ta class ni qayta qayta yozmaslik uchun
+kerak bo'ladi
+
+
+int tupple list set dict string float
+int string list tuple dict set bool float
+
+
+collections kutub xona bor defoulti : ichiga  list tuple set
+
+funksiya bilan lambda farqi
+
+
+
+
+logging xatoliklar tekshirish uchun
+info
+warning
+debug
+error
+critical
+
+
+
+index yaratish nima uchun kerak
+
+
+cash saqlash uchun redis ishlatiladi
+cash tezkor xotirada saqlanadi
+
+
+
+decorator
+
+
+generator va iterator farqi
+ginerator funksiya sifatida yaratilinadi  gil
+
+iteratorda __next__ qilib ketiladi
+
+list bilan generator
+list malumot saqlaydi listta joy ochib ketaveradi
+gineratr malumot eskisini o'rniga keladi
+
+
+
+selery
+bu misol uchun emailga code jo'natadigan bo'linsa unga sms jo'natildi deydi va ichkarida proses bo'b
+ketadi
+
+
+list bilan tuple ni farqi
+listta xarxil type da yozsa bo'ladi
+tuple hotiradan joy egallamaydi
+
+hashbe emitable
+unhashble mitable
+
+
+incapsulation
+polimorfizm
+object
+class
+erarhiya
+abstraction
+
+
+dunder matod and magick metod bular alternativlar
+__init__ __str__ __repr__ __len__ __eq__
+
+gill bir vaqtning o'zida 1 ta oqimni bajarishni taminlaydi
+
+
+linery va binary farqi
+linary bu boshidan oxirigacha tekshiradi binary bu 2 ga bo'lib qoganini tashlab ketadi
+
+ci cd
+
+
+indexni : table ni index bilan yaratilinsa qidiruvda tezroq topish uchun kerak
+
+list compitation set compitation dict com
+
+
+data class o'zgaruchilarni shunde berib ketamiz
+
+gil bu python project ti ketmaketligini boshqarishda yordam beradi
+
+postgres da tranzaction
+
+join da innre join right join left join fulljoin
+
+cash project tezroq va compyuter xotirasidan kamroq joy olinishia kerak
+cash tezkor xotirada saqlanadi
+
+
+s
